@@ -54,6 +54,8 @@ public class Lab6 {
  public static void roundPlayed(int a) {
   a++;
  }
+ 
+ 
  public static boolean choice(Scanner start_game) {
 
      
