@@ -27,6 +27,7 @@ public class Lab6 {
     
     while (gameChoice == false) {
       System.out.println("Total rounds played:" + rounds);
+      break;
       
 
     } 
