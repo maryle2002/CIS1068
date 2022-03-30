@@ -1,11 +1,3 @@
-// Mary Le
-// Section 005
-// February 28
-// Assignment 5. Games
-//
-// The program includes the use scanner and random method to create a game.
-//
-
 import java.util.Random;
 import java.util.Scanner;
 
