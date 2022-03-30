@@ -1,10 +1,3 @@
-// Mary Le
-// Section 005
-// February 1
-// Assignment 3. Draw a Pretty Picture
-//
-// The program includes the use of static method and the nested "for" loop to draw a something creative. The output of this program is a house. The first part is the rooftop and the second part is the body of the house.
-//
 public class AsciiArt {
  static final int SIZE = 30;
  public static void main(String[] args){
